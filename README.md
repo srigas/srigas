@@ -1,6 +1,6 @@
 ## Hello, world!
 
-My name is Spyros Rigas and I'm from Greece, currently living in Athens. I am a PhD Candidate in the Physics Department of the National and Kapodistrian University of Athens, researching on Theoretical & Computational Condensed Matter Physics. I am also a big Data Science enthusiast, currently enrolled in the Data Science and Machine Learning inter-faculty MSc programme of the National Technical University of Athens. You can view my academic profile [here](http://solid.phys.uoa.gr/fileadmin/solid.phys.uoa.gr/upload/htm/Students/Rigas/rigas_en.html "NKUA personal page"), visit my web-page [here](http://users.uoa.gr/~srigas/ "Personal web-page"), or link with me on [Linkedin](https://www.linkedin.com/in/spyros-rigas-6524821bb/ "Linkedin Profile")!
+My name is Spyros Rigas and I'm from Greece, currently living in Athens. I am a PhD Candidate in the Physics Department of the National and Kapodistrian University of Athens, researching on Theoretical & Computational Condensed Matter Physics. I am also a big Data Science enthusiast, currently enrolled in the Data Science and Machine Learning inter-faculty MSc programme of the National Technical University of Athens. You can visit my web-page [here](http://users.uoa.gr/~srigas/ "Personal web-page"), view my academic profile [here](http://solid.phys.uoa.gr/fileadmin/solid.phys.uoa.gr/upload/htm/Students/Rigas/rigas_en.html "NKUA personal page"), or link with me on [Linkedin](https://www.linkedin.com/in/spyros-rigas-6524821bb/ "Linkedin Profile")!
 
 ### 🔬 Research Interests
 
