@@ -28,7 +28,7 @@ Alt color = 225A63 -->
 
 * Spatial and time-series analysis of Covid-19 vaccination data using R
 * Time-series analysis of stock data from the New York Stock Exchange using Python
-* Natural speech analysis and classification using Hidden Markov Models and Recurrent Neural Networks using Python
+* Natural speech recognition with Hidden Markov Models and LSTM Neural Networks using Python
 
 ### 📈 GitHub Stats
 
