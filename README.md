@@ -36,5 +36,5 @@ Alt color = 225A63 -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=srigas&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=818fa3&bg_color=515050" alt="Spyros' GitHub Stats" />
 </a>
 <a href="https://github.com/srigas/srigas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srigas&title_color=ffffff&text_color=ffffff&icon_color=5d9ca6&bg_color=515050&langs_count=3&hide=FORTRAN,jupyter%20notebook&custom_title=Favorite%20Languages" /> <!-- &layout=compact for compact layout-->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srigas&title_color=ffffff&text_color=ffffff&icon_color=5d9ca6&bg_color=515050&langs_count=3&hide=FORTRAN,jupyter%20notebook&custom_title=Most%20Frequent%20Languages" /> <!-- &layout=compact for compact layout-->
 </a>
