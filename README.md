@@ -26,7 +26,7 @@ Alt color = 225A63 -->
 
 ### 📊 Recent Projects
 
-* Spatial and time-series analysis of Covid-19 vaccination data using R
+* [Spatial and time-series analysis of Covid-19 vaccination data using R](https://github.com/srigas/Covid-19_Vaccinations)
 * Time-series analysis of stock data from the New York Stock Exchange using Python
 * Natural speech recognition with Hidden Markov Models and LSTM Neural Networks using Python
 
