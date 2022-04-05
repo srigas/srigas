@@ -26,9 +26,11 @@ Alt color = 225A63 -->
 
 ### 📊 Recent Projects
 
+* [Exploratory Data Analysis on Covid-19 data using PySpark](https://github.com/srigas/Covid-19_PySpark_EDA)
+* [A comparative analysis between Convolutional Neural Networks and Support Vector Machines for image classification](https://github.com/srigas/Image_Classification_with_CNNs_and_SVMs)
 * [Spatial and time-series analysis of Covid-19 vaccination data using R](https://github.com/srigas/Covid-19_Vaccinations)
 * [Time-series analysis of stock data from the New York Stock Exchange using Python](https://github.com/srigas/New_York_Stock_Analysis)
-* Natural speech recognition with Hidden Markov Models and LSTM Neural Networks using Python
+<!--* Natural speech recognition with Hidden Markov Models and LSTM Neural Networks using Python -->
 
 ### 📈 GitHub Stats
 
