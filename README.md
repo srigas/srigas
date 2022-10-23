@@ -1,6 +1,6 @@
 ## Hello, world!
 
-My name is Spyros Rigas and I'm from Greece, currently living in Athens. I am a Physics-educated Data Scientist, holding a BSc and a MSc degree in Physics from the National and Kapodistrian University of Athens (NKUA). I currently work as a Data Engineering & Machine Learning Operations specialist @ SeaQuest Marine Technologies LLC. In addition, I am a 2nd-year student in the Data Science and Machine Learning MSc Programme of the National Technical University of Athens (NTUA), writing my thesis titled "Construction of a complete marine data science pipeline: from data collection to model deployment". For more information, you can visit my web-page [here](https://srigas.net "Personal web-page"), or link with me on [Linkedin](https://www.linkedin.com/in/spyros-rigas "Linkedin Profile").
+My name is Spyros Rigas and I'm from Greece, currently living in Athens. I am a Physics-educated Data Scientist, holding a BSc and a MSc degree in Physics from the National and Kapodistrian University of Athens (NKUA). I currently work as a Data Engineering & Machine Learning Operations specialist @ SeaQuest Marine Technologies. In addition, I am a 2nd-year student in the Data Science and Machine Learning MSc Programme of the National Technical University of Athens (NTUA), writing my thesis titled "Construction of a complete marine data science pipeline: from data collection to model deployment". For more information, you can visit my web-page [here](https://srigas.net "Personal web-page"), or link with me on [Linkedin](https://www.linkedin.com/in/spyros-rigas "Linkedin Profile").
 
 <!--I am a Physicist with a Master's Degree on Theoretical & Computational Condensed Matter Physics from the Physics Department of the National and Kapodistrian University of Athens. Data Science and Machine Learning are two areas that I happened to come across during my MSc studies in Physics and, the further I dove into them, the more they seemed to ignite the same spark that Physics had ignited in me years ago. This is why, after earning my MSc diploma, I decided to switch fields and enrolled in the Data Science and Machine Learning inter-faculty MSc programme of the National Technical University of Athens. For more information, you can visit my web-page [here](https://srigas.me "Personal web-page"), or link with me on [Linkedin](https://www.linkedin.com/in/spyros-rigas-6524821bb/ "Linkedin Profile")!-->
 
@@ -14,9 +14,11 @@ My name is Spyros Rigas and I'm from Greece, currently living in Athens. I am a 
 ### 💻 Coding <!--\& Tools-->
 
 ![](https://img.shields.io/badge/Code-Python-informational?logo=python&logoColor=white&style=flat&color=486393)
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?logo=postgresql&logoColor=white&style=flat&color=486393)
 ![](https://img.shields.io/badge/Code-R-informational?logo=r&logoColor=white&style=flat&color=486393)
 ![](https://img.shields.io/badge/Code-Julia-informational?logo=julia&logoColor=white&style=flat&color=486393)
 ![](https://img.shields.io/badge/Code-Fortran-informational?logo=fortran&logoColor=white&style=flat&color=486393)
+![](https://img.shields.io/badge/Code-C-informational?logo=c&logoColor=white&style=flat&color=486393)
 
 <!--![](https://img.shields.io/badge/IDE-Visual_Studio-informational?logo=visualstudio&logoColor=white&style=flat&color=5d9ca6)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?logo=visualstudiocode&logoColor=white&style=flat&color=5d9ca6)
