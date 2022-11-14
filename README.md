@@ -38,12 +38,10 @@ me.hello_world()
 ![](https://img.shields.io/badge/Python-Flax-informational?logo=python&logoColor=white&style=flat&color=486393)
 ![](https://img.shields.io/badge/Python-OpenCV-informational?logo=python&logoColor=white&style=flat&color=486393)
 ![](https://img.shields.io/badge/Python-sklearn-informational?logo=python&logoColor=white&style=flat&color=486393)
-![](https://img.shields.io/badge/Python-NumPy-informational?logo=python&logoColor=white&style=flat&color=486393)
 ![](https://img.shields.io/badge/Python-pandas-informational?logo=python&logoColor=white&style=flat&color=486393)
 <br>
 ![](https://img.shields.io/badge/Apache-Spark-informational?logo=apache-spark&logoColor=white&style=flat&color=486393)
 ![](https://img.shields.io/badge/Azure-Databricks-informational?logo=databricks&logoColor=white&style=flat&color=486393)
-![](https://img.shields.io/badge/Azure-Functions-informational?logo=azure-functions&logoColor=white&style=flat&color=486393)
 ![](https://img.shields.io/badge/Tools-PowerBI-informational?logo=power-bi&logoColor=white&style=flat&color=486393)
 ![](https://img.shields.io/badge/Tools-Grafana-informational?logo=grafana&logoColor=white&style=flat&color=486393)
 ![](https://img.shields.io/badge/Tools-InfluxDB-informational?logo=influxdb&logoColor=white&style=flat&color=486393)
@@ -52,6 +50,8 @@ me.hello_world()
 
 <!--![](https://img.shields.io/badge/OS-Linux-informational?logo=linux&logoColor=white&style=flat&color=486393)-->
 <!--![](https://img.shields.io/badge/shell-Bash-informational?logo=gnu-bash&logoColor=white&style=flat&color=486393)-->
+<!-- 
+![](https://img.shields.io/badge/Azure-Functions-informational?logo=azure-functions&logoColor=white&style=flat&color=486393)-->
 
 
 <!--![](https://img.shields.io/badge/Code-R-informational?logo=r&logoColor=white&style=flat&color=486393)
