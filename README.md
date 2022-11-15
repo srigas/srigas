@@ -14,7 +14,6 @@ class SpyrosR:
         print("➡ 2nd-year student in the Data Science and Machine Learning MSc Programme of NTUA.")
         print("➡ Working as a Machine Learning Operations specialist @ SeaQuest Marine Technologies.")
 
-
 me = SpyrosR()
 me.hello_world()
 ```
