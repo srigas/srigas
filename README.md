@@ -18,21 +18,9 @@ me = SpyrosR()
 me.hello_world()
 ```
 
-
-<p align="center">
-  <img src="mossgif.gif">
-</p>
-
 <!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=srigas&right_color=%23486393)-->
 
 <!--My name is Spyros Rigas and I'm from Greece, currently living in Athens. I am a Physics-educated Data Scientist, holding a BSc and a MSc degree in Physics from the National and Kapodistrian University of Athens (NKUA). I currently work as a Data Engineering & Machine Learning Operations specialist @ SeaQuest Marine Technologies. In addition, I am a 2nd-year student in the Data Science and Machine Learning MSc Programme of the National Technical University of Athens (NTUA), writing my thesis titled "Construction of a complete marine data science pipeline: from data collection to model deployment". For more information, you can visit my web-page [here](https://srigas.net "Personal web-page"), or link with me on [Linkedin](https://www.linkedin.com/in/spyros-rigas "Linkedin Profile").-->
-
-<!--### 🔬 Research Interests
-
-* Electronic Structure
-* Correlated Systems
-* Topological Quantum Matter
-* Superconductivity-->
 
 ### 💻 Libraries \& Tools
 
@@ -58,11 +46,6 @@ me.hello_world()
 ![](https://img.shields.io/badge/Azure-Functions-informational?logo=azure-functions&logoColor=white&style=flat&color=486393)-->
 
 
-<!--![](https://img.shields.io/badge/Code-R-informational?logo=r&logoColor=white&style=flat&color=486393)
-![](https://img.shields.io/badge/Code-Julia-informational?logo=julia&logoColor=white&style=flat&color=486393)
-![](https://img.shields.io/badge/Code-Fortran-informational?logo=fortran&logoColor=white&style=flat&color=486393)
-![](https://img.shields.io/badge/Code-C-informational?logo=c&logoColor=white&style=flat&color=486393)-->
-
 <!--### 📊 Recent Projects
 
 * [Physics Informed Neural Networks using JAX/Flax](https://github.com/srigas/PINNs)
@@ -71,6 +54,10 @@ me.hello_world()
 * [Spatiotemporal analysis of Covid-19 vaccination data using R](https://github.com/srigas/Covid-19_Vaccinations)
 * [Time-series analysis of stock data from the New York Stock Exchange using Python](https://github.com/srigas/New_York_Stock_Analysis)
 <!--* Natural speech recognition with Hidden Markov Models and LSTM Neural Networks using Python -->
+
+<p align="center">
+  <img src="mossgif.gif">
+</p>
 
 <!--### 📈 GitHub Stats-->
 
