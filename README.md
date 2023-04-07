@@ -10,9 +10,9 @@ class SpyrosR:
         self.coding = ["Python", "R", "Julia", "FORTRAN", "C"]
 
     def hello_world(self):
-        print("➡ Physics-educated Data Scientist from Greece, holding a BSc and a MSc degree in Physics, NKUA.")
-        print("➡ 2nd-year student in the Data Science and Machine Learning MSc Programme of NTUA.")
-        print("➡ Working as a Machine Learning Operations specialist @ SeaQuest Marine Technologies.")
+        print("➡ Physics-educated Data Scientist from Greece, with BSc degree from NKUA")
+        print("➡ Double MSc: Theoretical Physics, NKUA and Data Science & Machine Learning, NTUA.")
+        print("➡ Working as a Data & ML Engineer @ SeaQuest Marine Technologies.")
 
 me = SpyrosR()
 me.hello_world()
