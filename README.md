@@ -11,7 +11,7 @@ class SpyrosR:
     def hello_world(self):
         print("➡ Physicist, Theoretical Physics MSc (NKUA) and Data Science & Machine Learning MSc (NTUA)")
         print("➡ Working as a Full Stack Data & ML Engineer @ SeaQuest Marine Technologies.")
-        print("➡ Studying Condensed Matter Physics with accelerated computational methods as a hobby.")
+        print("➡ Solving Condensed Matter Physics problems with accelerated computing methods as a hobby.")
 
 me = SpyrosR()
 me.hello_world()
@@ -37,7 +37,6 @@ When it comes to data, I am used to working with both batch and on-line jobs in 
 
 I have almost exclusively worked with Microsoft's Azure cloud and the services it provides, however I have some hands-on experience using AWS services as well.
 
-![](https://img.shields.io/badge/Azure-Data%20Lake%20Gen%202-informational?logo=microsoftazure&logoColor=white&style=flat&color=486393)
 ![](https://img.shields.io/badge/Azure-Data%20Factory-informational?logo=microsoftazure&logoColor=white&style=flat&color=486393)
 ![](https://img.shields.io/badge/Azure-Databricks-informational?logo=databricks&logoColor=white&style=flat&color=486393)
 ![](https://img.shields.io/badge/Azure-IoT%20Hub-informational?logo=microsoftazure&logoColor=white&style=flat&color=486393)
